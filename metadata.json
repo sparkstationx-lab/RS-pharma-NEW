@@ -1,0 +1,8 @@
+{
+  "name": "RS Pharma",
+  "description": "RS Pharma India Private Limited · Wholesale Distribution & Cold-Chain Supply",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
